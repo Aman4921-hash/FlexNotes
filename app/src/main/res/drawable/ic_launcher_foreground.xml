@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Stylized White Notepad Sheet -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,24 h44 a4,4 0 0 1 4,4 v52 a4,4 0 0 1 -4,4 h-44 a4,4 0 0 1 -4,-4 v-52 a4,4 0 0 1 4,-4 z" />
+
+    <!-- Notepad Blue Bound Spiral Rings on Left -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M24,30 h8 v4 h-8 z M24,42 h8 v4 h-8 z M24,54 h8 v4 h-8 z M24,66 h8 v4 h-8 z" />
+
+    <!-- Ruled Lined Notebook Horizontal Patterns -->
+    <path
+        android:strokeColor="#CBD5E1"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M38,36 h32 M38,48 h32 M38,60 h32 M38,72 h20" />
+
+    <!-- High-Contrast Golden Stylus Pen Shadow Layer -->
+    <path
+        android:strokeColor="#0F172A"
+        android:strokeWidth="10"
+        android:strokeLineCap="round"
+        android:pathData="M56,76 L86,46" />
+
+    <!-- Stylus Pen Active Golden Body -->
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:pathData="M56,76 L86,46" />
+
+    <!-- Stylus Dark Metal Cap -->
+    <path
+        android:strokeColor="#475569"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:pathData="M83,43 L86,46" />
+
+    <!-- Stylus active drawing Tip -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M56,76 L51,81 L51,76 Z" />
+
+</vector>

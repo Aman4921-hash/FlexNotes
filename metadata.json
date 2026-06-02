@@ -1,0 +1,6 @@
+{
+  "name": "FlexNotes Student",
+  "description": "A polished student note-taking app with stylus support, palm rejection, infinite canvas, multi-page support, and PDF/image insertions resembling Samsung Notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
